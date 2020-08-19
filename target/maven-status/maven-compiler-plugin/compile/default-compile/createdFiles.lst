@@ -1,0 +1,9 @@
+com\webshop\entity\NewEntity.class
+com\webshop\dto\NewDTO.class
+com\webshop\entity\RoleEntity.class
+com\webshop\entity\CategoryEntity.class
+com\webshop\Application.class
+com\webshop\api\NewAPI.class
+com\webshop\entity\BaseEntity.class
+com\webshop\entity\UserEntity.class
+com\webshop\dto\AbstractDTO.class
